@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jermagne 👋
 
-<!--
-**jrmgn/jrmgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS Information Technology student passionate about Data Analytics and Data Science. This is where I document my learning journey and showcase projects involving data analysis, visualization, and machine learning.
 
-Here are some ideas to get you started:
+📊 Currently building projects and continuously learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- SQL
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+- Power BI (Learning)
